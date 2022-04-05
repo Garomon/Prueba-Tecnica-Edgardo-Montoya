@@ -2,6 +2,8 @@
 
 prueba-tecnica-edgardo-montoya
 
+App de Busqueda de Segmentos
+
 
 ![image](https://user-images.githubusercontent.com/99446178/161690406-531cdc46-5a06-4286-aad5-5b79b4116dcc.png)
 
