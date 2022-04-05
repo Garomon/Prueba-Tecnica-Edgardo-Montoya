@@ -17,6 +17,10 @@ app.use(cors());
 app.use("/posts", postRoutes);
 app.use("/user", userRouter);
 
+app.get('/', (req, res) => {
+  res.send('LA APP ESTA CORRIENDO :D')
+})
+
 
 //Utilizamos Mongoose para conectarnos a la base de datos en MongoDB
 const CONNECTION_URL =
